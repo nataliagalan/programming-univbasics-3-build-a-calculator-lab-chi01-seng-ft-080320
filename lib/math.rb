@@ -26,7 +26,7 @@ def square_root(num)
 
   counter = 1
   while (counter * counter) <= num
-  counter += 1
+    counter += 1
   end
   
 counter - 1
